@@ -1,4 +1,4 @@
-flex::after {
+flex::before {
   content: "";
   flex: auto;
-}   
+}
