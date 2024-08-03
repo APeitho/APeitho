@@ -1,1 +1,4 @@
-flex::content
+flex::after {
+  content: "";
+  flex: auto;
+}   
